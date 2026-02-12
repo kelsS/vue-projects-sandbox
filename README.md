@@ -27,3 +27,31 @@
 
 - [Angular vs React vs Vue: Core Differences](https://www.browserstack.com/guide/angular-vs-react-vs-vue)
 - [Angular vs React vs Vue: The Best Framework for 2025 is...](https://zerotomastery.io/blog/angular-vs-react-vs-vue/)
+
+## Vue basic concepts
+
+- Core Syntax
+- Templates
+- Directives
+- Data
+- Methods
+- Computed Properties
+- Watchers
+
+## Vue intermediate concepts
+
+- Components
+- Component Communication
+- Behind the Scenes
+- Forms
+- HTTP
+- Routing
+- Animations
+
+## Vue advanced concepts
+
+- Vuex (for State management)
+- Authentication
+- Deployment and Optimizations
+- Composition API
+- Re-using Code
