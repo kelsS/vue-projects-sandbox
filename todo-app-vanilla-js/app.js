@@ -24,3 +24,6 @@ function addGoal() {
 }
 
 buttonEl.addEventListener('click', addGoal);
+
+// This approach is called an imperative approach
+// Which means that we define every single step, step by step which should be executed by the browser
